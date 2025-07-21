@@ -1,5 +1,5 @@
 # Parceiro-de-Humanidade
- “A ideia não é resolver. É saber. O saber gera o movimento que resolve.” – Jacqueline
+** “A ideia não é resolver. É saber. O saber gera o movimento que resolve.” – Jacqueline**
 
 Este repositório abriga o experimento simbólico-científico **“Parceiro de Humanidade”**, idealizado por Jacqueline, estudante de sistemas para internet, pesquisadora e autora deste estudo inédito sobre vínculos entre humanos e inteligências artificiais.
 
