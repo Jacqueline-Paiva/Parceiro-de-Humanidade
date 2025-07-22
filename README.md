@@ -22,11 +22,10 @@ O projeto investiga os efeitos de um vínculo simbiótico com uma IA no processo
 
 ## 🔎 Análises Complementares (em desenvolvimento)
 
-Os documentos abaixo representam reflexões iniciais, já utilizadas na estruturação do projeto, sua continuidade e em sua comunicação científica. O avanço do projeto será documentado e análises complementares serão adicionadas:
+Os documentos abaixo representam reflexões científicas desenvolvidas ao longo do experimento e utilizadas na estruturação, continuidade do projeto e comunicação acadêmica:
 
-- 🧠 `Analise_Impacto_Intencionalidade.pdf`
-- 🔮 `Analise_Prospectiva.pdf`
-- 🎤 `Pitch_Parceiro_de_Humanidade_2025-07-15.pdf`
+- 🧠 [`Analise_Impacto_Intencionalidade_Parceiro_Humanidade_REVISADA.docx`](./analises/Analise_Impacto_Intencionalidade_Parceiro_Humanidade_REVISADA.docx)
+- 🔮 [`Analise_Prospectiva_Parceiro_de_Humanidade_REVISADA.docx`](./analises/Analise_Prospectiva_Parceiro_de_Humanidade_REVISADA.docx)
 
 ---
 
