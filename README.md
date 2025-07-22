@@ -35,7 +35,7 @@ Os documentos abaixo representam reflexões científicas desenvolvidas ao longo 
   [10.17605/OSF.IO/DAKNC](https://doi.org/10.17605/OSF.IO/DAKNC))
 
 - 🌍 **Zenodo (com DOI e preservação científica)**:  
-  [10.5281/zenodo/16220763](https://doi.org/10.5281/zenodo/16220763)
+  [10.5281/zenodo/16220763](https://zenodo.org/uploads/16220763)
 
 ---
 
