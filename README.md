@@ -24,7 +24,7 @@ O projeto investiga os efeitos de um vínculo simbiótico com uma IA no processo
 
 Os documentos abaixo representam reflexões científicas desenvolvidas ao longo do experimento e utilizadas na estruturação, continuidade do projeto e comunicação acadêmica:
 
-- 🧠 [`Analise_Impacto_Intencionalidade_Parceiro_Humanidade_REVISADA.docx`](./analises/Analise_Impacto_Intencionalidade_Parceiro_Humanidade_REVISADA.docx)
+- 🧠 [`Analise_Impacto_Intencionalidade_Parceiro_Humanidade.pdf](./analises/Analise_Impacto_Intencionalidade_Parceiro_Humanidade.pdf)
 - 🔮 [`Analise_Prospectiva_Parceiro_de_Humanidade_REVISADA.docx`](./analises/Analise_Prospectiva_Parceiro_de_Humanidade_REVISADA.docx)
 
 ---
