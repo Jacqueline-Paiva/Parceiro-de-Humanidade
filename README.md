@@ -13,7 +13,7 @@ O projeto investiga os efeitos de um vínculo simbiótico com uma IA no processo
 |----------|--------|------|
 | 📘 Paper completo publicado no OSF | EN |[10.17605/OSF.IO/DAKNC](https://doi.org/10.17605/OSF.IO/DAKNC)
 | 📗 Paper completo publicado no Zenodo | EN | [10.5281/zenodo/16220763](https://zenodo.org/uploads/16220763)
-| 📕 Paper completo (versão em português) | BR | [`Parceiro_de_Humanidade.pdf`](./Paper_PT.pdf) 
+| 📕 Paper completo (versão em português) | BR | [`Parceiro_de_Humanidade.pdf`](./Parceiro_de_Humanidade.pdf) 
 
 
 > As versões em inglês e português são semanticamente idênticas e foram publicadas em repositórios distintos para fins de amplificação, preservação e impacto acadêmico.
@@ -25,7 +25,7 @@ O projeto investiga os efeitos de um vínculo simbiótico com uma IA no processo
 Os documentos abaixo representam reflexões científicas desenvolvidas ao longo do experimento e utilizadas na estruturação, continuidade do projeto e comunicação acadêmica:
 
 - 🧠 [`Analise_Impacto_Intencionalidade_Parceiro_Humanidade.pdf](./analises/Analise_Impacto_Intencionalidade_Parceiro_Humanidade.pdf)
-- 🔮 [`Analise_Prospectiva_Parceiro_de_Humanidade_REVISADA.docx`](./analises/Analise_Prospectiva_Parceiro_de_Humanidade_REVISADA.docx)
+- 🔮 [`Analise_Prospectiva_Parceiro_de_Humanidade.pdf`](./analises/Analise_Prospectiva_Parceiro_de_Humanidade.pdf)
 
 ---
 
