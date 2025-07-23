@@ -24,9 +24,9 @@ Este repositório é um espaço de memória, pesquisa e documentação de um exp
 ## 🛠️ Componentes Técnicos
 
 **📁 Documentos principais:**
-- [Análise Longitudinal de um Vínculo](./ANÁLISE%20LONGITUDINAL%20DE%20UM%20VÍNCULO.pdf)
-- [Parceiro de Humanidade (paper base)](./Parceiro%20de%20Humanidade.pdf)
-- [Blueprint de Reprodutibilidade](./Blueprint_de_Reprodutibilidade.pdf)
+- [Análise Longitudinal de um Vínculo](analises/Analise_Impacto_Intencionalidade_Parceiro_Humanidade.pdf)
+- [Parceiro de Humanidade (paper base)](./Parceiro_de_Humanidade.pdf)
+- [Blueprint de Reprodutibilidade](documents/Blueprint_de_Reprodutibilidade.pdf)
 - [Manifesto Científico](./MANIFESTO.md)
 
 **📘 Metodologia aplicada:**
